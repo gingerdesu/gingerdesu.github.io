@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MBA @ Yale School of Management, B.S. @ University of Illinois at Urbana Champaign.
 
 profile:
   align: right
@@ -12,24 +12,26 @@ profile:
     <p>NYC, SF, LA</p>
     <p>Fluent in English & 中文</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
+4 Years of `Product/Program Management` (Capital One, Apple, Start-up)
+2 Years of `Software Engineering` (Capital One)
+1 Year of `Chemical/Materials Research` (Graphene Batteries & Flexible Display OTFT)
 
+Past times include hosting large events (Auction Gala, Dance Performances, Alumni Reunions) and collecting global currency. Worked backstage during New York Fashion Week 2020 F/W.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+LA Born, China Grown, NY/CA based.
 
 Stay in touch on [LinkedIn](https://www.linkedin.com/in/anniegjiang/)!
