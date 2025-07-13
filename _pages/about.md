@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p>4 Years of `Product/Program Management` (Capital One, Apple, Start-up) </p>
-<p>2 Years of `Software Engineering` (Capital One)</p>
-<p>1 Year of `Chemical/Materials Research` (Graphene Batteries & Flexible Display OTFT)</p>
+4 Years of `Product/Program Management` (Capital One, Apple, Start-up)
+2 Years of `Software Engineering` (Capital One)
+1 Year of `Chemical/Materials Research` (Graphene Batteries & Flexible Display OTFT)
 
 Past times include hosting large events (Auction Gala, Dance Performances, Alumni Reunions) and collecting global currency. Worked backstage during New York Fashion Week 2020 F/W.
 
