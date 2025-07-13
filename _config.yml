@@ -190,10 +190,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/projects.md
-  - _pages/repositories.md
+  - _pages/repositories.md #hides this page on the top nav bar as well
   - _pages/people.md
   - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
